@@ -1,0 +1,62 @@
+﻿{
+  "ProviderConfigs": [
+    {
+      "Site": "TMDb",
+      "Priority": 11,
+      "Properties": {
+        "IgnoredKeywords": "1664,10199,7017,2483,10031,572,170827,190370,162804,1817,33998,155477,5906,207767,9838,13059,738,2727,7344"
+      }
+    },
+    {
+      "Site": "KinoPub",
+      "Priority": 10,
+      "Mirrors": [ "https://kinopub.in", "https://kino.pub" ]
+    },
+    {
+      "Site": "anime365",
+      "Priority": 10
+    },
+    {
+      "Site": "VideoCDN",
+      "Priority": 9,
+      "Mirrors": [ "https://387.videocdn.pw" ]
+    },
+    {
+      "Site": "SeasonVar",
+      "Priority": 9
+    },
+    {
+      "Site": "HDVB",
+      "Priority": 9,
+      "Mirrors": [ "https://vid1585894113115.vb17109nadiapattel.pw" ]
+    },
+    {
+      "Site": "UStore",
+      "Priority": 9
+    },
+    {
+      "Site": "Rezka",
+      "Priority": 7,
+      "Mirrors": [ "http://101kinopoisk.com" ]
+    },
+    {
+      "Site": "Filmix",
+      "Priority": 8,
+      "Mirrors": [ "https://filmix.agency" ]
+    },
+    {
+      "Site": "Zona",
+      "Mirrors": [ "https://w81.zona.plus" ]
+    },
+    {
+      "Site": "Collaps",
+      "EnforceDisabled": true
+    },
+    {
+      "Site": "Bazon",
+      "Properties": {
+        "BazonReferer": "https://smotri.kino-filmy-onlayn.ru/"
+      }
+    }
+  ]
+}

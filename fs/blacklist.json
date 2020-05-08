@@ -1,0 +1,40 @@
+﻿{
+  "BlockedIds": [
+    "TMDb-335983",
+    "TMDb-399360",
+    "TMDb-406563",
+    "TMDb-76492",
+    "TMDb-159824",
+    "TMDb-400155",
+    "Filmix-124068",
+    "Filmix-120708",
+    "Filmix-121487",
+    "Filmix-52825",
+    "Filmix-97454",
+    "Filmix-122614",
+    "ExFS-90528",
+    "ExFS-92495",
+    "ExFS-90778",
+    "ExFS-90777",
+    "ExFS-90776",
+    "ExFS-88190",
+    "ExFS-59056",
+    "ExFS-5134",
+    "ExFS-82500",
+
+    "Filmix-141271",
+    "Filmix-135484",
+    "Filmix-139779",
+    "Kinorium-2014829",
+    "Kinorium-1622772",
+    "Kinorium-2362438",
+    "Rezka-24158",
+    "Rezka-32823",
+    "TMDb-514207",
+    "TMDb-576917",
+    "TMDb-101944",
+    "ExFS-98741"
+  ],
+  "FilterRegexes": {
+  }
+}
